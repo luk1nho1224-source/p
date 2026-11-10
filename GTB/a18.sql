@@ -1,0 +1,1 @@
+SELECT MIN(FechaPago), MAX(FechaPago) FROM pagos;

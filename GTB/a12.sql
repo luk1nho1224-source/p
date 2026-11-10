@@ -1,0 +1,1 @@
+SELECT NombreCliente FROM clientes WHERE Pais = 'España';

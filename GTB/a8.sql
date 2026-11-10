@@ -1,0 +1,1 @@
+SELECT Nombre, Apellido1, Apellido2, Email FROM empleados WHERE CodigoJefe = (SELECT CodigoEmpleado FROM empleados WHERE Nombre = 'Alberto' AND Apellido1 = 'Soria');

@@ -1,0 +1,1 @@
+SELECT Pais, COUNT(*) FROM clientes GROUP BY Pais;

@@ -1,0 +1,1 @@
+SELECT Puesto, Nombre, Apellido1, Apellido2, Email FROM empleados WHERE CodigoJefe IS NULL;

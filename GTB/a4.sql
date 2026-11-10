@@ -1,0 +1,1 @@
+SELECT AVG(Cantidad) FROM pagos WHERE YEAR(FechaPago) = 2005;

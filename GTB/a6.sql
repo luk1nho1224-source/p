@@ -1,0 +1,1 @@
+SELECT MAX(PrecioVenta), MIN(PrecioVenta) FROM productos;

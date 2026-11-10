@@ -1,0 +1,1 @@
+SELECT Ciudad, Telefono FROM oficinas WHERE Pais = 'EEUU' OR Pais = 'Estados Unidos';
