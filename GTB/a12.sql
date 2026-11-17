@@ -1,1 +1,1 @@
-SELECT NombreCliente FROM clientes WHERE Pais = 'España';
+SELECT NombreCliente FROM clientes WHERE Pais = 'Espaa';
