@@ -1,0 +1,1 @@
+SELECT CodigoPedido, COUNT(CodigoProducto) AS NumeroProductos FROM DetallePedidos GROUP BY CodigoPedido;

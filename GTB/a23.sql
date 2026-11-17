@@ -1,0 +1,1 @@
+SELECT CodigoProducto, SUM(Cantidad) AS TotalCantidad FROM DetallePedidos GROUP BY CodigoProducto ORDER BY TotalCantidad DESC LIMIT 20;

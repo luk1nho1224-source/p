@@ -1,0 +1,1 @@
+SELECT CodigoPedido, CodigoCliente, FechaEsperada, FechaEntrega FROM Pedidos WHERE FechaEntrega <= addDATE(FechaEsperada, INTERVAL -2 DAY);
