@@ -1,1 +1,1 @@
-SELECT Nombre, Apellido1, Apellido2, Puesto FROM empleados WHERE Puesto <> 'Representante Ventas';
+SELECT Nombre, Apellido1, Apellido2, Puesto FROM Empleados WHERE Puesto <> 'Representante Ventas';

@@ -1,2 +1,2 @@
 SELECT COUNT(*) AS TotalEmpleados 
-FROM empleados;
+FROM Empleados;

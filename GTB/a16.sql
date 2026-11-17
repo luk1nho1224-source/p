@@ -1,1 +1,1 @@
-SELECT CodigoEmpleadoRepVentas, COUNT(*) FROM clientes GROUP BY CodigoEmpleadoRepVentas;
+SELECT CodigoEmpleadoRepVentas, COUNT(codigocliente) FROM clientes GROUP BY CodigoEmpleadoRepVentas;

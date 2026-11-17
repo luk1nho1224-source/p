@@ -1,1 +1,1 @@
-SELECT MIN(FechaPago), MAX(FechaPago) FROM pagos;
+SELECT CodigoCliente, MIN(FechaPago), MAX(FechaPago) FROM Pagos GROUP BY CodigoCliente;

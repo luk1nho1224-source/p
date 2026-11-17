@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM clientes WHERE Ciudad LIKE 'M%' GROUP BY ciudad; 
+SELECT COUNT(*) FROM Clientes WHERE Ciudad LIKE 'M%' GROUP BY ciudad; 

@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM clientes WHERE CodigoEmpleadoRepVentas IS NULL;
+SELECT COUNT(*) FROM Clientes WHERE CodigoEmpleadoRepVentas IS NULL;

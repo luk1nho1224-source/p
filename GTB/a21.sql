@@ -1,0 +1,1 @@
+SELECT CodigoPedido, CodigoCliente, FechaEsperada, FechaEntrega FROM Pedidos WHERE FechaEntrega > FechaEsperada;

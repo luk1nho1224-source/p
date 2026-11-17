@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM clientes WHERE Ciudad = 'Madrid';
+SELECT COUNT(*) FROM Clientes WHERE Ciudad = 'Madrid';

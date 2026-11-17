@@ -1,1 +1,1 @@
-SELECT DISTINCT Estado FROM pedidos;
+SELECT DISTINCT Estado FROM Pedidos;

@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM clientes;
+SELECT COUNT(*) FROM Clientes;

@@ -1,1 +1,1 @@
-SELECT Estado, COUNT(*) AS TotalPedidos FROM pedidos GROUP BY Estado ORDER BY TotalPedidos DESC;
+SELECT Estado, COUNT(*) AS TotalPedidos FROM Pedidos GROUP BY Estado ORDER BY TotalPedidos DESC;

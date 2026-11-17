@@ -1,1 +1,1 @@
-SELECT Ciudad, Telefono FROM oficinas WHERE Pais = 'EEUU' OR Pais = 'Estados Unidos';
+SELECT Ciudad, Telefono FROM Oficinas WHERE Pais = 'EEUU' OR Pais = 'Estados Unidos';
